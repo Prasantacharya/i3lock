@@ -1,5 +1,6 @@
-i3lock - improved screen locker
+GLlock - improved screen locker for i3 with shaders!!
 ===============================
+i3 + opengl custom lock!
 [i3lock](https://i3wm.org/i3lock/)> is a simple screen locker like slock.
 After starting it, you will see a white screen (you can configure the
 color/an image). You can return to your screen by entering your password.
